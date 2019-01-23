@@ -1,0 +1,8 @@
+ why we need : 
+origin	https://github.com/Stef1010/devopsloft.git (fetch)
+origin	https://github.com/Stef1010/devopsloft.git (push)
+upstream	https://github.com/Stef1010/devopsloft.git (fetch)
+upstream	https://github.com/Stef1010/devopsloft.git (push)
+
+
+origin and upstream ? 
